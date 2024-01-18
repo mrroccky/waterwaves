@@ -1,0 +1,1 @@
+![Details Page](https://github.com/mrroccky/movieflex/blob/main/showcase/6.png?raw=true)
