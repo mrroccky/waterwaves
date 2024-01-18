@@ -1,1 +1,2 @@
-![Details Page](https://github.com/mrroccky/movieflex/blob/main/showcase/6.png?raw=true)
+![Details Page](https://github.com/mrroccky/waterwaves/blob/main/showcase/1.png?raw=true)
+![Details Page](https://github.com/mrroccky/waterwaves/blob/main/showcase/2.png?raw=true)
